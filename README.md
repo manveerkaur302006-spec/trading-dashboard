@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+[View Live Trading Dashboard](https://trading-dashboard-omega-ebon.vercel.app/)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
